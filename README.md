@@ -1,16 +1,14 @@
 ## Hi there 👋
+## 🔍 LeetCode Profile
 
-<!--
-**abhishekcodes166/abhishekcodes166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://leetcode.com/u/AbhishekJha16/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-AbhishekJha16-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+</a>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AbhishekJha16?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats Card" />
+</p>
+
+
