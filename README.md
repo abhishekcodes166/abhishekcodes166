@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 🔍 LeetCode Profile
 
-<a href="https://leetcode.com/u/AbhishekJha16/" target="_blank">
+<a href="https://leetcode.com/u/abhi-jha/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-AbhishekJha16-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
 </a>
 
